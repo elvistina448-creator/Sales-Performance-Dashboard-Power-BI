@@ -6,6 +6,11 @@ I designed and developed an interactive Power BI sales analytics dashboard to tr
 
 This dashboard provides a comprehensive analysis of overall sales performance, enabling users to explore data across multiple dimensions using interactive filters.
 
+*Dashboard Preview*:
+
+<img width="667" height="383" alt="Screenshot 2026-05-06 190219" src="https://github.com/user-attachments/assets/13ac9fed-687f-4189-a95d-61d04dfd5437" />
+
+
 ## Tools
 - Power BI [Download Here](https://apps.microsoft.com/detail/9NTXR16HNW1T?hl=en-us&gl=US&ocid=pdpshare)
 
@@ -33,8 +38,6 @@ Created custom analytical columns to enhance business insights, including:
 7. Customer segment revenue comparison
 8. Profitability distribution insights
 
-   
-
 ## Key Business Questions Answered
 
 This dashboard helps answer:
@@ -46,3 +49,13 @@ This dashboard helps answer:
 - How is profitability distributed across orders?
 - How are sales trends changing over time?
 - Technical Skills Demonstrated
+
+  ## Key Learning Outcomes
+
+Through this project, I strengthened my understanding of:
+
+- Power BI relationships and data modeling
+- Data cleaning and transformation using Power Query
+- DAX calculated measures
+- Filter context and slicers
+- Dashboard design best practices
