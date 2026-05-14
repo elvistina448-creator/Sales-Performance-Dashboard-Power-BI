@@ -1,10 +1,12 @@
 # Sales Performance Dashboard 
 
-I designed and developed an interactive Power BI sales analytics dashboard to transform raw data into actionable business insights through reporting and data visualization.
+An interactive Power BI sales analytics dashboard designed to transform raw transactional data into actionable business insights for decision making in sales performance, profitability, and operational efficiency.
 
 ## Project Overview
 
-This dashboard provides a comprehensive analysis of overall sales performance, enabling users to explore data across multiple dimensions using interactive filters.
+This project analyzes sales performance across key business dimensions including revenue, profitability, customer segments, product categories, and regional performance.
+
+The dashboard enables stakeholders to monitor performance trends and identify areas for improvement through interactive filters and KPIs.
 
 *Dashboard Preview*:
 
@@ -12,50 +14,50 @@ This dashboard provides a comprehensive analysis of overall sales performance, e
 
 
 ## Tools
-- Power BI [Download Here](https://apps.microsoft.com/detail/9NTXR16HNW1T?hl=en-us&gl=US&ocid=pdpshare)
+-Power BI (Data Modeling, DAX, Visualization)
+
+-Power Query (Data Cleaning & Transformation)
 
 ## Data Cleaning & Preparation
 
-Performed data transformation and preprocessing using Power Query, including:
+Data preparation was performed in Power Query, including:
 
 1. Promoted first row to headers
-2. Standardized date formats
-3. Corrected data types for numerical and date based analysis
+2. Standardized date formats for time-based analysis
+3. Corrected data types for accurate calculations
+4. Removed inconsistencies and structured raw transactional data
+5. Created custom analytical columns to improve business insights:
+    - Order Processing Time – operational efficiency measurement
+    - Shipping Speed Category – classification of delivery performance
+    - Profitability Classification – segmented orders into profitable vs non-profitable
 
-Created custom analytical columns to enhance business insights, including:
- - Order Processing Time – measured operational efficiency
- - Shipping Speed Category – classified processing performance
- - Profitability Classification – categorized orders as profitable/non profitable
+## Key Dashboard Features
 
-## Dashboard Features
-
-1. Dynamic slicers for flexible analysis by region, ship mode, and product category
-2. KPI cards for high level performance monitoring
-3. Revenue and order trend analysis over time
-4. Top performing products by closed revenue
-5. Country level closed order analysis
-6. Returned item tracking
+1. Interactive slicers (Region, Ship Mode, Product Category, Customer Segment)
+2. KPI cards for high-level performance tracking (Revenue, Orders, Profitability)
+3. Time-series analysis of revenue and order trends
+4. Product performance analysis (top-performing products by revenue)
+5. Regional and country-level sales distribution
+6. Return rate tracking and analysis
 7. Customer segment revenue comparison
-8. Profitability distribution insights
+8. Profitability distribution insights across orders
 
-## Key Business Questions Answered
+## Key Business Insights
 
-This dashboard helps answer:
+This dashboard supports decision-making by answering:
 
-- Which products generate the highest revenue?
-- Which regions and countries drive the most orders?
-- What customer segments contribute most to revenue?
-- Which items experience the highest return rates?
-- How is profitability distributed across orders?
-- How are sales trends changing over time?
-- Technical Skills Demonstrated
+1. Which products generate the highest revenue?
+2. Which regions and countries contribute most to sales?
+3. Which customer segments drive the most revenue?
+4. What is the return behavior across products?
+5. How is profitability distributed across orders?
+6. How do sales trends change over time?
 
-  ## Key Learning Outcomes
+  ## Skills Demonstrated
 
-Through this project, I strengthened my understanding of:
-
-- Power BI relationships and data modeling
-- Data cleaning and transformation using Power Query
-- DAX calculated measures
-- Filter context and slicers
-- Dashboard design best practices
+- Power BI dashboard development
+- Data modeling and relationships
+- DAX measures and calculated columns
+- Data cleaning and transformation (Power Query)
+- Business KPI design and tracking
+- Data storytelling and visualization design
